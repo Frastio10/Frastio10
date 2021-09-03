@@ -21,4 +21,4 @@
 <p align='center'>Feel free to hit me up on my social media </p>
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frastio10"/></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=frastio10"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=frastio10?card_width=100"/></a>
