@@ -1,7 +1,7 @@
 <h1 align='center'>
-  Hi there 👋 I'm Alexandre 👨‍💻
+  Hi there 👋 I'm Frastio Agustian 👨‍💻
 </h1>
 
 <p align='center'>
-  A mobile and .net developer from Curitiba, Brazil.
+  A web developer from Indonesia
 </p>
