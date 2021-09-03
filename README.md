@@ -16,3 +16,5 @@
   </a>&nbsp;&nbsp;
   
 </p>
+
+<p align='center'>I like to work using JavaScript, and I'm currently learning about the MERN Stack </p>
