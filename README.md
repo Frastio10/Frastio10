@@ -22,5 +22,5 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frastio10"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=frastio10"/></a>
+<!--   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=frastio10"/></a> -->
 </p>
