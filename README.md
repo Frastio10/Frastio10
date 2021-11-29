@@ -1,4 +1,4 @@
-<h1 align="center">I'm Frastio Agustian</h1>
+
 <h3 align="center">I like JavaScript.</h3>
 
 
