@@ -1,5 +1,5 @@
 
-<h3 align="center">I like JavaScript.</h3>
+<h3 align="center">JS/TS Enthusiast.</h3>
 
 
 <p align="center">
