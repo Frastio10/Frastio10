@@ -1,5 +1,5 @@
 
-<h3 align="center">JS/TS Enthusiast.</h3>
+<h3 align="center">a Software Engineer.</h3>
 
 
 <p align="center">
@@ -9,6 +9,14 @@
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="express" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="express" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="express" width="40" height="40"/> 
   </a>
 </p>
 
