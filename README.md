@@ -25,7 +25,7 @@
 <hr/>
 <p align="center">
    <img width="300" src="https://discord.c99.nl/widget/theme-4/325386201697615882.png"/>
-  <br/> <br/>  
+  <br/> 
   <p align="center"><b>- web dev as a job, the rest are just hobbies -</b> </p>
 </p>
 <!-- <p align="center">
