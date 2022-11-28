@@ -24,7 +24,7 @@
 
 <hr/>
 <p align="center">
-  <a href="https://discord.com/invite/BNAbP45e" target="_blank">
+  <a href="https://discord.com/invite/BNAbP45e" target="_blank" rel="noreferrer">
    <img width="300" src="https://discord.c99.nl/widget/theme-4/325386201697615882.png"/>
   </a>
   <br/> 
